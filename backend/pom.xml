@@ -13,7 +13,7 @@
 	<artifactId>dsmeta</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dsmeta</name>
-	<description>Projeto Sprint React</description>
+	<description>Projeto da Semana Spring React Devsuperior</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
@@ -46,6 +46,13 @@
 			<artifactId>spring-security-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>com.twilio.sdk</groupId>
+			<artifactId>twilio</artifactId>
+			<version>8.31.1</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
