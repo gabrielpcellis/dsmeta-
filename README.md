@@ -42,3 +42,12 @@ ReactJS
 # Overview da aplicação
 
 ![image](https://user-images.githubusercontent.com/72102636/179445590-909dbaee-cbba-4a99-b81c-956397805325.png)
+
+#SDS: Instação das ferramentas no Windows
+- JDK 17
+- STS
+- Postman
+- Heroku CLI
+- NodeJS 16.x 
+- VS Code
+- Git
