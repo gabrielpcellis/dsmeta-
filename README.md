@@ -1,7 +1,7 @@
 # DSMETA
 Projeto pessoal, desenvolvido em um evento da [DevSuperior](https://www.instagram.com/devsuperior.ig/), onde é possível consultar uma tabela com dados de vendedores para avaliar suas metas alcançadas e enviar um SMS com os dados do vendedor, anunciando que ele foi o destaque de vendas, dentro de um período filtrado por datas.
 ## Tópicos trabalhados
-Criação e versionamento do projeto com Git e Github, layout estático, componentes React, DatePicker, React Hook useState, entidades, banco de dados (mapeamento objeto-relacional (JPA)), database seed, listagem de dados, API REST (repository, service, controller), integração com SMS, integração front end e back end, requisições com Axios, React Hook UseEffect, parâmetros de consulta, implantação na nuvem com CI/CD (entrega e integração contínuas), toast (react), design com Figma.
+Criação e versionamento do projeto com Git e Github, layout estático, componentes React, DatePicker, React Hook useState, entidades, banco de dados (mapeamento objeto-relacional (JPA)), database seed, listagem de dados, API REST (repository, service, controller), integração com SMS, integração front end e back end, requisições com Axios, React Hook UseEffect, parâmetros de consulta, implantação na nuvem com CI/CD (entrega e integração contínuas), toast (react), design com Figma, componentização.
 # Ferramentas utilizadas  
 ## Back end
 ### Linguagens
