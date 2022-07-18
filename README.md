@@ -34,6 +34,8 @@ ReactJS
 
 > Netlify (implantação/deploy) CI/CD
 
+>Twilio (SMS)
+
 > Git e GitHub
 
 # Composição do projeto
